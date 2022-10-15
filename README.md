@@ -1,5 +1,7 @@
+[![MasterHead](https://github.com/danyalabetski)
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">IOS Developer</h3>
+(img align="right" alt="Coding" width="400" src=“https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif”)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danyalabetski&label=Profile%20views&color=0e75b6&style=flat" alt="danyalabetski" /> </p>
 
@@ -17,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danyalabetski&show_icons=true&locale=en" alt="danyalabetski" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danyalabetski&" alt="danyalabetski" /></p>
-
