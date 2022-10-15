@@ -1,4 +1,3 @@
-![MasterHead](https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif)
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">IOS Developer from Belarus</h3>
 https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif
