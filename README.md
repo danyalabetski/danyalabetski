@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/danyalabetski)
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">IOS Developer</h3>
 (img align="right" alt="Coding" width="400" src=“https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif”)
